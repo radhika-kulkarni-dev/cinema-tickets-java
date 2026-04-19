@@ -253,6 +253,10 @@ The following assumptions were made during implementation:
     All major steps are logged at appropriate levels.
 
 ---
+## Build Project
+```
+mvn clean install
+```
 
 ## 🏁 Running Tests
 
